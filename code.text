@@ -23,6 +23,8 @@
 </head>
 
 <body>
+<h1> Test Your Reaction here..!! </h1>
+<p> Click on the boxes and circle as quickly as you can..</p>
 
 <p> Your Time : <span id="time"></span></p>
 
